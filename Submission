@@ -1,0 +1,17 @@
+# My Submission
+
+**Team Members:**
+* **Tanisha Debnath** - Enrollment Number: 12023052020012
+* **Aryak Pal** - Enrollment Number: 12023052020025
+* **Anik Mandal** - Enrollment Number: 12023052020021
+* **Pratyay Chowdhury** - Enrollment Number: 12023052020034
+
+## Description
+Python Automation (Selenium) assignment covering:
+1. Web Element Identification (using By.ID, By.NAME, By.TAG_NAME, By.LINK_TEXT, and By.CLASS_NAME)
+2. Multiple Element Identification
+3. CSS Selector Challenge (including wildcards for dynamic attributes)
+4. Child Nodes Using CSS
+
+## Demo
+https://drive.google.com/file/d/1M1szuOFN40qefgYb6nHcG6xxzxS7pXPI/view?usp=drivesdk
